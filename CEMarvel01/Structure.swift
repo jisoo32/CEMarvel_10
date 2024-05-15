@@ -1,13 +1,8 @@
-//
-//  Structure.swift
-//  CEMarvel01
-//
-//  Created by 김형관 on 2023/04/30.
-//
 
 import Foundation
 
 struct Structure: Decodable, Identifiable, Hashable {
+    //해독할 수 있는?decode 할 수 있음 //define하고 나서 identifiable // simple
     let id: Int
     let name: String
     let country: String
@@ -16,5 +11,6 @@ struct Structure: Decodable, Identifiable, Hashable {
     let longitude: Double
     let picture: String
     
-    static let exampleStructure = Structure(id: 1, name: "Great Wall", country: "China", description: "More than 2200 years ago, the first emperor of China, after uniting the country, ordered the construction of this wall. Although what remains today is mainly from the Ming dynasty that existed from 14th to 17th century, we can see that the first emperor wanted to defend China from the intrusion of various nomadic powers. There must have been lots of hurdles to overcome to construct the great wall. Lots of people may have been injured or even died during the construction. But we see the purpose of this monumental structure. This was to protect lives and wealth of people.", latitude: 39.935539, longitude: 116.405640, picture: "great wall")
+    static let exampleStructure = Structure(id: 1, name: "N Seoul Tower", country: "Korea", description: "The N Seoul Tower, officially the YTN Seoul Tower and commonly known as Namsan Tower or Seoul Tower, is a large tower in South Korea. It is part of Seoul. The country can be viewed from the tower, making it a tourist attaction. It is 479.7 metres (1,574 ft) tall. It has cafes and observatories in it.", latitude: 37.55135, longitude: 126.9884, picture: "N Seoul Tower")
+    
 }

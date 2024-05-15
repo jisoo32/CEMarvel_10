@@ -1,50 +1,42 @@
-
 [
     {
         "id": 1,
-        "name": "Great Wall",
-        "country": "china",
-        "description": "More than 2200 years ago, the first emperor of China, after uniting the country, ordered the construction of this wall. Although what remains today is mainly from the Ming dynasty that existed from 14th to 17th century, we can see that the first emperor wanted to defend China from the intrusion of various nomadic powers. There must have been lots of hurdles to overcome to construct the great wall. Lots of people may have been injured or even died during the construction. But we see the purpose of this monumental structure. This was to protect lives and wealth of people.",
-        "latitude": 39.935539,
-        "longitude": 116.405640,
-        "picture": "great wall"
+        "name": "N Seoul Tower",
+        "country": "Korea",
+        "description": "The N Seoul Tower, officially the YTN Seoul Tower and commonly known as Namsan Tower or Seoul Tower, is a large tower in South Korea. It is part of Seoul. The country can be viewed from the tower, making it a tourist attaction. It is 479.7 metres (1,574 ft) tall. It has cafes and observatories in it.",
+        "latitude": 37.55135,
+        "longitude": 126.9884,
+        "picture": "N Seoul Tower"
     },
     {
         "id": 2,
-        "name": "Segovia Aqueduct",
-        "country": "spain",
-        "description": "The Aqueduct of Segovia is known to have been built at the end of the 1st century by Roman engineers. Roman engineers defined three dimensions of quality: Utilitas, Firmitas, and Venustas. Utilitas is the utility of the structure, Firmitas means structural integrity, and Venustas is aesthetics. Thanks to these quality criteria, the Aqueduct had been in use to transport water until 19th century.",
-        "latitude": 40.942902,
-        "longitude": -4.108807,
-        "picture": "segovia aqueduct"
+        "name": "Statue of Liberty",
+        "country": "U.S.A.",
+        "description": "The Statue of Liberty is a monument symbolizing the United States. The statue is placed on Liberty Island, near New York City Harbor. The statue commemorates the signing of the United States Declaration of Independence. It was given to the United States by the civilians of France in 1886, to represent the friendship between the two countries established during the American Revolution. It represents a woman wearing a stola, a crown and sandals, trampling a broken chain, and with a torch in her raised right hand and a tabula ansata, or tablet where the date of the Declaration of Independence JULY IV MDCCLXXVI (1776)is written, in her left hand. The statue is on Liberty Island in New York Harbor, and it welcomes visitors, immigrants, and returning Americans travelling by ship.",
+        "latitude": 40.68957510208775,
+        "longitude": -74.04413487216071,
+        "picture": "Statue of Liberty"
     },
     {
         "id": 3,
-        "name": "Panama Canal",
-        "country": "panama",
-        "description": "Panama Canal links the Pacific and the Atlantic Oceans. It was French people who first worked on this construction. After a successful completion of the Suez Canal, the French tried to complete this project but in vain. Technical difficulties, hostile climate, and political issues had led to the failure. It was Americans who took over the construction in early 20th century. They tried to solve those problems identified by the French people. They used the lock-approach to have different water elevations in the canal. They controlled mosquitos to deal with the disease of yellow fever. They even supported a revolution that led to the formation of Republic of Panama.",
-        "latitude": 9.080000,
-        "longitude": -79.680000,
-        "picture": "panama canal"
+        "name": "Tower Bridge",
+        "country": "France",
+        "description": "The Eiffel Tower is a landmark in Paris. It was built between 1887 and 1889 for the Exposition Universelle. It was supposed to be a temporary installation for the 1889 World Fair, held at Paris to show respect to 100 years of the French Revolution. In 1909, there were discussions regarding the potential dismantling of the Eiffel Tower. However, the decision to save this iconic structure was ultimately reached by city officials, who acknowledged its importance as a radiotelegraphy station.",
+        "latitude": 48.858412423780614,
+        "longitude": 2.2945563978713746,
+        "picture": "Tower Bridge"
     },
     {
         "id": 4,
-        "name": "Incheon Bridge",
-        "country": "korea",
-        "description": "Incheon Bridge is a part of the 21.38 km long highway linking Incheon and Seoul in Korea. As you can see, this is a cable-stayed bridge. The main span between the two pylons is 800 m, and the height of each pylon is 230.5 m. The total cost was about $2.2 billion. This structure was completed in 2009 using the so-called public-private-partnership approach. Not just tax payers’ money but also private entities money were used for this construction.",
-        "latitude": 37.413891,
-        "longitude": 126.566666,
-        "picture": "incheon bridge"
-    },
-    {
-        "id": 5,
-        "name": "Burj Khalifa",
-        "country": "uae",
-        "description": "Burj Khalifa is the tallest building of the world located in Dubai. The height is 829.8 m and there is 163 floors. This was completed in 2010. It cost about $1.5 billion. Suppose you have this money of $1.5 billion, and your job is to build this monumental structure. What would you do?",
-        "latitude": 25.197525,
-        "longitude": 55.274288,
-        "picture": "burj khalifa"
+        "name": "Leaning Tower of Pisa",
+        "country": "Italy",
+        "description": "The Leaning Tower of Pisa is a building in Pisa, Italy. It is a bell tower. It is famous for its nearly four-degree lean. In 1990 the tower was leaning at 5.5 degrees and increasing. After that, much restoration work has been done to stop it from falling over completely. There was scaffolding all around the tower for 20 years. On 26 April 2011, the last bit of scaffolding was removed so that the tower can be seen properly again.",
+        "latitude": 43.722975231978374,
+        "longitude": 10.396596995672217,
+        "picture": "Leaning Tower of Pisa"
     }
  ]
+
+
 
 

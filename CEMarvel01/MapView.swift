@@ -1,9 +1,3 @@
-//
-//  MapView.swift
-//  CEMarvel01
-//
-//  Created by 김형관 on 2023/04/30.
-//
 
 import MapKit
 import SwiftUI
@@ -17,7 +11,7 @@ struct MapView: View {
         Map(coordinateRegion: $region, annotationItems: structures.structures) { structure in
             MapAnnotation(coordinate: CLLocationCoordinate2D(latitude: structure.latitude, longitude: structure.longitude)) {
                 NavigationLink(destination: ContentView(structure: structure)) {
-                    Image(structure.country)
+                    Image(structure.country) //structure의 나라 지정해 국기 고르기
                         .resizable()
                         .cornerRadius(10)
                         .frame(width: 80, height: 40)
